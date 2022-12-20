@@ -1,0 +1,19 @@
+.background-style {
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  background-color: #ff000090;
+}
+
+#second-element {
+  font-size: 36px;
+  color: rgb(0, 0, 255);
+}
+
+.unique-style {
+  font-size: 24px;
+}
+
+#third-element {
+  background-color: #00ff0090;
+  font-size: 24px;
+  font-weight: 700;
+}
